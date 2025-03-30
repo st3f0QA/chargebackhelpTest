@@ -3,6 +3,9 @@
 2. open the folder chargebackhelpTest in code editor - VSC, or something else.
 Note - the repo is public, so there should not be any problems with cloning the repo.
 
+**To install node modules**
+npm install --legacy-peer-deps       
+
 **To install cypress**
 npm install cypress --save-dev
 
