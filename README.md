@@ -3,7 +3,7 @@
 2. open the folder chargebackhelpTest in code editor - VSC, or something else.
 Note - the repo is public, so there should not be any problems with cloning the repo.
 
-**To install cypress - **
+**To install cypress**
 npm install cypress --save-dev
 
 **To open Cypress UI**
